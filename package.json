@@ -1,0 +1,28 @@
+{
+  "name": "claude-anthropic-theme",
+  "displayName": "Claude - Anthropic Theme",
+  "description": "A dark VS Code theme inspired by Anthropic's Claude interface palette",
+  "version": "1.0.0",
+  "publisher": "duca",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "icon": "icon.png",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Claude Dark (Anthropic)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/claude-dark-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "license": "MIT"
+}
