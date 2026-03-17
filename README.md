@@ -1,4 +1,5 @@
 <h3 align="center">
+    <img src="https://raw.githubusercontent.com/igorfelipeduca/claude-theme/main/icon.png" width="100" alt="Logo"/><br/><br/>
     Claude Theme for <a href="https://code.visualstudio.com">VSCode</a> / <a href="https://cursor.sh">Cursor</a>
 </h3>
 
@@ -7,6 +8,7 @@
 </p>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/igorfelipeduca/claude-theme/main/assets/preview.png" alt="Claude Theme Preview" width="800"/>
 </p>
 
 ## About
@@ -36,7 +38,7 @@ No blue-tinted backgrounds. No harsh contrasts. Just warm, balanced tones that l
 
 ### From VSIX (recommended)
 
-1. Download the `.vsix` file from the [latest release](https://github.com/duca/claude-theme/releases/latest)
+1. Download the `.vsix` file from the [latest release](https://github.com/igorfelipeduca/claude-theme/releases/latest)
 2. Open Command Palette (`Cmd+Shift+P`)
 3. Select **"Extensions: Install from VSIX..."**
 4. Choose the downloaded file
@@ -45,7 +47,7 @@ No blue-tinted backgrounds. No harsh contrasts. Just warm, balanced tones that l
 
 ```bash
 # Clone the repo
-git clone https://github.com/duca/claude-theme.git
+git clone https://github.com/igorfelipeduca/claude-theme.git
 
 # Package it
 cd claude-theme
